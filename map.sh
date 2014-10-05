@@ -5,11 +5,11 @@ cp custom/boat_wield.png minetest/boat_wield.png
 #Missing: bones_rear.png
 #Missing: bones_side.png
 #Missing: bones_top.png
-#Magick: bubble.png
+cp custom/bubble.png minetest/bubble.png
 cp original/items/bucket_lava.png minetest/bucket_lava.png
 cp original/items/bucket_empty.png minetest/bucket.png
 cp original/items/bucket_water.png minetest/bucket_water.png
-#Magick: crack_anylength.png
+cp custom/crack_anylength.png minetest/crack_anylength.png
 cp original/items/apple.png minetest/default_apple.png
 cp original/items/book_normal.png minetest/default_book.png
 cp original/blocks/bookshelf.png minetest/default_bookshelf.png
@@ -59,7 +59,7 @@ cp custom/default_grass_4.png minetest/default_grass_4.png
 cp custom/default_grass_5.png minetest/default_grass_5.png
 #Missing: default_grass_footsteps.png
 cp custom/default_grass.png minetest/default_grass.png
-#Magick: default_grass_side.png
+cp custom/default_grass_side.png minetest/default_grass_side.png
 cp original/blocks/gravel.png minetest/default_gravel.png
 cp original/blocks/ice.png minetest/default_ice.png
 cp custom/default_iron_lump.png minetest/default_iron_lump.png
@@ -104,7 +104,7 @@ cp original/blocks/sapling_oak.png minetest/default_sapling.png
 cp custom/default_sign_wall.png minetest/default_sign_wall.png
 cp original/items/snowball.png minetest/default_snowball.png
 cp original/blocks/snow.png minetest/default_snow.png
-#Magick: default_snow_side.png
+cp custom/default_snow_side.png minetest/default_snow_side.png
 cp original/blocks/iron_block.png minetest/default_steel_block.png
 cp original/items/iron_ingot.png minetest/default_steel_ingot.png
 cp original/items/stick.png minetest/default_stick.png
@@ -229,8 +229,8 @@ cp custom/gui_furnace_arrow_bg.png minetest/gui_furnace_arrow_bg.png
 cp custom/gui_furnace_arrow_fg.png minetest/gui_furnace_arrow_fg.png
 #Missing: gui_hb_bg.png
 cp custom/gui_hotbar.png minetest/gui_hotbar.png
-#Magick: gui_hotbar_selected.png
-#Magick: heart.png
+cp custom/gui_hotbar_selected.png minetest/gui_hotbar_selected.png
+cp custom/heart.png minetest/heart.png
 #Missing: icon.png
 cp custom/minetest_menu_header.png minetest/minetest_menu_header.png
 #Missing: player_back.png
@@ -244,7 +244,7 @@ cp original/blocks/tnt_bottom.png minetest/tnt_bottom.png
 cp original/items/gunpowder.png minetest/tnt_gunpowder_inventory.png
 #Missing: tnt_gunpowder.png
 cp original/blocks/tnt_side.png minetest/tnt_side.png
-#Magick: tnt_smoke.png
+cp custom/tnt_smoke.png minetest/tnt_smoke.png
 #Missing: tnt_top_burning_animated.png
 #Missing: tnt_top_burning.png
 cp original/blocks/tnt_top.png minetest/tnt_top.png
@@ -280,14 +280,3 @@ cp original/blocks/iron_bars.png minetest/xpanes_bar.png
 #Missing: xpanes_pane_half.png
 #Missing: xpanes_space.png
 #Missing: xpanes_white.png
-
-#Imagemagick stuff
-convert original/gui/icons.png -crop 9x9+16+18 minetest/bubble.png
-#convert original/blocks/destroy_stage_*.png -append minetest/crack_anylength.png
-#convert original/gui/container/furnace.png -crop 16x16+56+35 minetest/default_furnace_fire_bg.png
-convert original/gui/container/furnace.png -crop 16x16+176+0 minetest/default_furnace_fire_fg.png
-convert original/blocks/grass_side.png original/blocks/grass_side_overlay.png -compose CopyOpacity -composite minetest/default_grass_side.png
-convert original/blocks/grass_side_snowed.png original/blocks/grass_side_overlay.png -compose CopyOpacity -composite minetest/default_snow_side.png
-convert original/gui/widgets.png -crop 24x24+0+22 minetest/gui_hotbar_selected.png
-convert original/gui/icons.png -crop 9x9+52+0 minetest/heart.png
-convert original/particle/particles.png -crop 9x9+56+0 minetest/tnt_smoke.png

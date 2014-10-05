@@ -5,11 +5,11 @@ bones_front.png
 bones_rear.png
 bones_side.png
 bones_top.png
-bubble.png *magick*
+bubble.png *custom*
 bucket_lava.png items/bucket_lava.png
 bucket.png items/bucket_empty.png
 bucket_water.png items/bucket_water.png
-crack_anylength.png *magick*
+crack_anylength.png *custom*
 default_apple.png items/apple.png
 default_book.png items/book_normal.png
 default_bookshelf.png blocks/bookshelf.png
@@ -59,7 +59,7 @@ default_grass_4.png *custom*
 default_grass_5.png *custom*
 default_grass_footsteps.png
 default_grass.png *custom*
-default_grass_side.png *magick*
+default_grass_side.png *custom*
 default_gravel.png blocks/gravel.png
 default_ice.png blocks/ice.png
 default_iron_lump.png *custom*
@@ -104,7 +104,7 @@ default_sapling.png blocks/sapling_oak.png
 default_sign_wall.png *custom*
 default_snowball.png items/snowball.png
 default_snow.png blocks/snow.png
-default_snow_side.png *magick*
+default_snow_side.png *custom*
 default_steel_block.png blocks/iron_block.png
 default_steel_ingot.png items/iron_ingot.png
 default_stick.png items/stick.png
@@ -229,8 +229,8 @@ gui_furnace_arrow_bg.png *custom*
 gui_furnace_arrow_fg.png *custom*
 gui_hb_bg.png
 gui_hotbar.png *custom*
-gui_hotbar_selected.png *magick*
-heart.png *magick*
+gui_hotbar_selected.png *custom*
+heart.png *custom*
 icon.png
 minetest_menu_header.png *custom*
 player_back.png
@@ -244,7 +244,7 @@ tnt_gunpowder_burning.png
 tnt_gunpowder_inventory.png items/gunpowder.png
 tnt_gunpowder.png
 tnt_side.png blocks/tnt_side.png
-tnt_smoke.png *magick*
+tnt_smoke.png *custom*
 tnt_top_burning_animated.png
 tnt_top_burning.png
 tnt_top.png blocks/tnt_top.png

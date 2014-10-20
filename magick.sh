@@ -9,3 +9,7 @@ convert original/blocks/grass_side_snowed.png original/blocks/grass_side_overlay
 convert original/gui/widgets.png -crop 24x24+0+22 gui_hotbar_selected.png
 convert original/gui/icons.png -crop 9x9+52+0 heart.png
 convert original/particle/particles.png -crop 9x9+56+0 tnt_smoke.png
+convert original/blocks/door_wood_upper.png -flop door_wood_a.png
+convert original/blocks/door_wood_lower.png -flop door_wood_b.png
+convert original/blocks/door_iron_upper.png -flop door_steel_a.png
+convert original/blocks/door_iron_lower.png -flop door_steel_b.png

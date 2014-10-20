@@ -48,6 +48,7 @@ cp original/blocks/furnace_front_on.png minetest/default_furnace_front_active.pn
 cp original/blocks/furnace_front_off.png minetest/default_furnace_front.png
 cp original/blocks/furnace_side.png minetest/default_furnace_side.png
 cp original/blocks/furnace_top.png minetest/default_furnace_top.png
+#Missing: default_glass_detail.png
 cp original/blocks/glass.png minetest/default_glass.png
 cp original/blocks/gold_block.png minetest/default_gold_block.png
 cp original/items/gold_ingot.png minetest/default_gold_ingot.png
@@ -159,13 +160,13 @@ cp custom/door_grey.png minetest/door_grey.png
 #Missing: door_obsidian_glass_b.png
 #Missing: door_obsidian_glass.png
 #Missing: door_obsidian_glass_side.png
-cp original/blocks/door_iron_upper.png minetest/door_steel_a.png
-cp original/blocks/door_iron_lower.png minetest/door_steel_b.png
+cp custom/door_steel_a.png minetest/door_steel_a.png
+cp custom/door_steel_b.png minetest/door_steel_b.png
 cp custom/door_steel.png minetest/door_steel.png
 cp original/blocks/trapdoor.png minetest/door_trapdoor.png
 cp original/blocks/planks_oak.png minetest/door_trapdoor_side.png
-cp original/blocks/door_wood_upper.png minetest/door_wood_a.png
-cp original/blocks/door_wood_lower.png minetest/door_wood_b.png
+cp custom/door_wood_a.png minetest/door_wood_a.png
+cp custom/door_wood_b.png minetest/door_wood_b.png
 cp custom/door_wood.png minetest/door_wood.png
 cp custom/dye_black.png minetest/dye_black.png
 cp custom/dye_blue.png minetest/dye_blue.png
@@ -245,8 +246,8 @@ cp original/items/gunpowder.png minetest/tnt_gunpowder_inventory.png
 #Missing: tnt_gunpowder.png
 cp original/blocks/tnt_side.png minetest/tnt_side.png
 cp custom/tnt_smoke.png minetest/tnt_smoke.png
-#Missing: tnt_top_burning_animated.png
-#Missing: tnt_top_burning.png
+cp original/blocks/tnt_top.png minetest/tnt_top_burning_animated.png
+cp original/blocks/tnt_top.png minetest/tnt_top_burning.png
 cp original/blocks/tnt_top.png minetest/tnt_top.png
 cp custom/tool_mode1.png minetest/tool_mode1.png
 cp custom/tool_mode2.png minetest/tool_mode2.png

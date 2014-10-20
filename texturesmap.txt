@@ -48,6 +48,7 @@ default_furnace_front_active.png blocks/furnace_front_on.png
 default_furnace_front.png blocks/furnace_front_off.png
 default_furnace_side.png blocks/furnace_side.png
 default_furnace_top.png blocks/furnace_top.png
+default_glass_detail.png
 default_glass.png blocks/glass.png
 default_gold_block.png blocks/gold_block.png
 default_gold_ingot.png items/gold_ingot.png
@@ -159,13 +160,13 @@ door_obsidian_glass_a.png
 door_obsidian_glass_b.png
 door_obsidian_glass.png
 door_obsidian_glass_side.png
-door_steel_a.png blocks/door_iron_upper.png
-door_steel_b.png blocks/door_iron_lower.png
+door_steel_a.png *custom*
+door_steel_b.png *custom*
 door_steel.png *custom*
 door_trapdoor.png blocks/trapdoor.png
 door_trapdoor_side.png blocks/planks_oak.png
-door_wood_a.png blocks/door_wood_upper.png
-door_wood_b.png blocks/door_wood_lower.png
+door_wood_a.png *custom*
+door_wood_b.png *custom*
 door_wood.png *custom*
 dye_black.png *custom*
 dye_blue.png *custom*
@@ -240,13 +241,13 @@ screwdriver.png
 tnt_boom.png
 tnt_bottom.png blocks/tnt_bottom.png
 tnt_gunpowder_burning_animated.png
-tnt_gunpowder_burning.png
+tnt_gunpowder_burning.png 
 tnt_gunpowder_inventory.png items/gunpowder.png
 tnt_gunpowder.png
 tnt_side.png blocks/tnt_side.png
 tnt_smoke.png *custom*
-tnt_top_burning_animated.png
-tnt_top_burning.png
+tnt_top_burning_animated.png blocks/tnt_top.png
+tnt_top_burning.png blocks/tnt_top.png
 tnt_top.png blocks/tnt_top.png
 tool_mode1.png *custom*
 tool_mode2.png *custom*

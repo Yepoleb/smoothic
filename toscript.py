@@ -1,3 +1,5 @@
+#! /usr/bin/env python
+
 inp = open("texturesmap.txt", "r")
 out = open("map.sh", "w")
 for line in inp:

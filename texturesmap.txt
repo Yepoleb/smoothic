@@ -89,11 +89,17 @@ default_nc_back.png
 default_nc_front.png
 default_nc_rb.png
 default_nc_side.png
-default_obsidian_glass.png *custom*
 default_obsidian.png blocks/obsidian.png
+default_obsidian_brick.png *custom*
+default_obsidian_glass.png *custom*
 default_obsidian_shard.png *custom*
 default_paper.png items/paper.png
 default_papyrus.png blocks/reeds.png
+default_pine_needles.png *custom*
+default_pine_sapling.png blocks/sapling_spruce.png
+default_pinetree.png blocks/log_spruce.png
+default_pinetree_top.png blocks/log_spruce_top.png
+default_pinewood.png blocks/planks_spruce.png
 default_rail_crossing.png *custom*
 default_rail_curved.png blocks/rail_normal_turned.png
 default_rail.png blocks/rail_normal.png
@@ -102,7 +108,8 @@ default_sand.png blocks/sand.png
 default_sandstone_brick.png blocks/sandstone_carved.png
 default_sandstone.png blocks/sandstone_normal.png
 default_sapling.png blocks/sapling_oak.png
-default_sign_wall.png *custom*
+default_sign.png *custom*
+default_sign_wall.png items/sign.png
 default_snowball.png items/snowball.png
 default_snow.png blocks/snow.png
 default_snow_side.png *custom*
@@ -150,24 +157,24 @@ default_water_flowing_animated.png blocks/water_flow.png
 default_water.png *custom*
 default_water_source_animated.png blocks/water_still.png
 default_wood.png blocks/planks_oak.png
-door_brown.png *custom*
-door_glass_a.png
-door_glass_b.png
-door_glass.png
-door_glass_side.png
-door_grey.png *custom*
-door_obsidian_glass_a.png
-door_obsidian_glass_b.png
-door_obsidian_glass.png
-door_obsidian_glass_side.png
-door_steel_a.png *custom*
-door_steel_b.png *custom*
-door_steel.png *custom*
-door_trapdoor.png blocks/trapdoor.png
-door_trapdoor_side.png blocks/planks_oak.png
-door_wood_a.png *custom*
-door_wood_b.png *custom*
-door_wood.png *custom*
+doors_brown.png *custom*
+doors_glass_a.png
+doors_glass_b.png
+doors_glass.png
+doors_glass_side.png
+doors_grey.png *custom*
+doors_obsidian_glass_a.png
+doors_obsidian_glass_b.png
+doors_obsidian_glass.png
+doors_obsidian_glass_side.png
+doors_steel_a.png *custom*
+doors_steel_b.png *custom*
+doors_steel.png *custom*
+doors_trapdoor.png blocks/trapdoor.png
+doors_trapdoor_side.png blocks/trapdoor.png
+doors_wood_a.png *custom*
+doors_wood_b.png *custom*
+doors_wood.png *custom*
 dye_black.png *custom*
 dye_blue.png *custom*
 dye_brown.png *custom*
@@ -201,6 +208,7 @@ farming_flour.png *custom*
 farming_soil.png blocks/farmland_dry.png
 farming_soil_wet.png blocks/farmland_wet.png
 farming_soil_wet_side.png blocks/dirt.png
+farming_straw.png blocks/hay_block_side.png
 farming_tool_bronzehoe.png *custom*
 farming_tool_diamondhoe.png items/diamond_hoe.png
 farming_tool_mesehoe.png *custom*
@@ -249,10 +257,6 @@ tnt_smoke.png *custom*
 tnt_top_burning_animated.png blocks/tnt_top.png
 tnt_top_burning.png blocks/tnt_top.png
 tnt_top.png blocks/tnt_top.png
-tool_mode1.png *custom*
-tool_mode2.png *custom*
-tool_mode3.png *custom*
-tool_mode4.png *custom*
 vessels_drinking_glass_inv.png
 vessels_drinking_glass.png
 vessels_glass_bottle_inv.png items/potion_bottle_empty.png
@@ -281,3 +285,5 @@ xpanes_grey.png
 xpanes_pane_half.png
 xpanes_space.png
 xpanes_white.png
+
+info.txt *custom*

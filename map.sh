@@ -89,11 +89,17 @@ cp original/blocks/cobblestone_mossy.png minetest/default_mossycobble.png
 #Missing: default_nc_front.png
 #Missing: default_nc_rb.png
 #Missing: default_nc_side.png
-cp custom/default_obsidian_glass.png minetest/default_obsidian_glass.png
 cp original/blocks/obsidian.png minetest/default_obsidian.png
+cp custom/default_obsidian_brick.png minetest/default_obsidian_brick.png
+cp custom/default_obsidian_glass.png minetest/default_obsidian_glass.png
 cp custom/default_obsidian_shard.png minetest/default_obsidian_shard.png
 cp original/items/paper.png minetest/default_paper.png
 cp original/blocks/reeds.png minetest/default_papyrus.png
+cp custom/default_pine_needles.png minetest/default_pine_needles.png
+cp original/blocks/sapling_spruce.png minetest/default_pine_sapling.png
+cp original/blocks/log_spruce.png minetest/default_pinetree.png
+cp original/blocks/log_spruce_top.png minetest/default_pinetree_top.png
+cp original/blocks/planks_spruce.png minetest/default_pinewood.png
 cp custom/default_rail_crossing.png minetest/default_rail_crossing.png
 cp original/blocks/rail_normal_turned.png minetest/default_rail_curved.png
 cp original/blocks/rail_normal.png minetest/default_rail.png
@@ -102,7 +108,8 @@ cp original/blocks/sand.png minetest/default_sand.png
 cp original/blocks/sandstone_carved.png minetest/default_sandstone_brick.png
 cp original/blocks/sandstone_normal.png minetest/default_sandstone.png
 cp original/blocks/sapling_oak.png minetest/default_sapling.png
-cp custom/default_sign_wall.png minetest/default_sign_wall.png
+cp custom/default_sign.png minetest/default_sign.png
+cp original/items/sign.png minetest/default_sign_wall.png
 cp original/items/snowball.png minetest/default_snowball.png
 cp original/blocks/snow.png minetest/default_snow.png
 cp custom/default_snow_side.png minetest/default_snow_side.png
@@ -150,24 +157,24 @@ cp original/blocks/water_flow.png minetest/default_water_flowing_animated.png
 cp custom/default_water.png minetest/default_water.png
 cp original/blocks/water_still.png minetest/default_water_source_animated.png
 cp original/blocks/planks_oak.png minetest/default_wood.png
-cp custom/door_brown.png minetest/door_brown.png
-#Missing: door_glass_a.png
-#Missing: door_glass_b.png
-#Missing: door_glass.png
-#Missing: door_glass_side.png
-cp custom/door_grey.png minetest/door_grey.png
-#Missing: door_obsidian_glass_a.png
-#Missing: door_obsidian_glass_b.png
-#Missing: door_obsidian_glass.png
-#Missing: door_obsidian_glass_side.png
-cp custom/door_steel_a.png minetest/door_steel_a.png
-cp custom/door_steel_b.png minetest/door_steel_b.png
-cp custom/door_steel.png minetest/door_steel.png
-cp original/blocks/trapdoor.png minetest/door_trapdoor.png
-cp original/blocks/planks_oak.png minetest/door_trapdoor_side.png
-cp custom/door_wood_a.png minetest/door_wood_a.png
-cp custom/door_wood_b.png minetest/door_wood_b.png
-cp custom/door_wood.png minetest/door_wood.png
+cp custom/doors_brown.png minetest/doors_brown.png
+#Missing: doors_glass_a.png
+#Missing: doors_glass_b.png
+#Missing: doors_glass.png
+#Missing: doors_glass_side.png
+cp custom/doors_grey.png minetest/doors_grey.png
+#Missing: doors_obsidian_glass_a.png
+#Missing: doors_obsidian_glass_b.png
+#Missing: doors_obsidian_glass.png
+#Missing: doors_obsidian_glass_side.png
+cp custom/doors_steel_a.png minetest/doors_steel_a.png
+cp custom/doors_steel_b.png minetest/doors_steel_b.png
+cp custom/doors_steel.png minetest/doors_steel.png
+cp original/blocks/trapdoor.png minetest/doors_trapdoor.png
+cp original/blocks/trapdoor.png minetest/doors_trapdoor_side.png
+cp custom/doors_wood_a.png minetest/doors_wood_a.png
+cp custom/doors_wood_b.png minetest/doors_wood_b.png
+cp custom/doors_wood.png minetest/doors_wood.png
 cp custom/dye_black.png minetest/dye_black.png
 cp custom/dye_blue.png minetest/dye_blue.png
 cp custom/dye_brown.png minetest/dye_brown.png
@@ -201,6 +208,7 @@ cp custom/farming_flour.png minetest/farming_flour.png
 cp original/blocks/farmland_dry.png minetest/farming_soil.png
 cp original/blocks/farmland_wet.png minetest/farming_soil_wet.png
 cp original/blocks/dirt.png minetest/farming_soil_wet_side.png
+cp original/blocks/hay_block_side.png minetest/farming_straw.png
 cp custom/farming_tool_bronzehoe.png minetest/farming_tool_bronzehoe.png
 cp original/items/diamond_hoe.png minetest/farming_tool_diamondhoe.png
 cp custom/farming_tool_mesehoe.png minetest/farming_tool_mesehoe.png
@@ -249,10 +257,6 @@ cp custom/tnt_smoke.png minetest/tnt_smoke.png
 cp original/blocks/tnt_top.png minetest/tnt_top_burning_animated.png
 cp original/blocks/tnt_top.png minetest/tnt_top_burning.png
 cp original/blocks/tnt_top.png minetest/tnt_top.png
-cp custom/tool_mode1.png minetest/tool_mode1.png
-cp custom/tool_mode2.png minetest/tool_mode2.png
-cp custom/tool_mode3.png minetest/tool_mode3.png
-cp custom/tool_mode4.png minetest/tool_mode4.png
 #Missing: vessels_drinking_glass_inv.png
 #Missing: vessels_drinking_glass.png
 cp original/items/potion_bottle_empty.png minetest/vessels_glass_bottle_inv.png
@@ -281,3 +285,4 @@ cp original/blocks/iron_bars.png minetest/xpanes_bar.png
 #Missing: xpanes_pane_half.png
 #Missing: xpanes_space.png
 #Missing: xpanes_white.png
+cp custom/info.txt minetest/info.txt

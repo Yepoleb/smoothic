@@ -3,6 +3,8 @@
 inp = open("texturesmap.txt", "r")
 out = open("map.sh", "w")
 for line in inp:
+    if line.startswith("#"):
+        continue
     s = line.split()
     if len(s) == 2:
         if s[1] == "*custom*":

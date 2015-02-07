@@ -153,7 +153,7 @@ cp original/items/wood_sword.png minetest/default_tool_woodsword.png
 cp custom/default_torch.png minetest/default_torch.png
 cp original/blocks/log_oak.png minetest/default_tree.png
 cp original/blocks/log_oak_top.png minetest/default_tree_top.png
-cp original/blocks/water_flow.png minetest/default_water_flowing_animated.png
+cp custom/default_water_flowing_animated.png minetest/default_water_flowing_animated.png
 cp custom/default_water.png minetest/default_water.png
 cp custom/default_water_source_animated.png minetest/default_water_source_animated.png
 cp original/blocks/planks_oak.png minetest/default_wood.png

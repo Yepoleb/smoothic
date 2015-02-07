@@ -153,7 +153,7 @@ default_torch_on_floor.png
 default_torch.png *custom*
 default_tree.png blocks/log_oak.png
 default_tree_top.png blocks/log_oak_top.png
-default_water_flowing_animated.png blocks/water_flow.png
+default_water_flowing_animated.png *custom*
 default_water.png *custom*
 default_water_source_animated.png *custom*
 default_wood.png blocks/planks_oak.png

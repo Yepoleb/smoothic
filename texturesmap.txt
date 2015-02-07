@@ -155,7 +155,7 @@ default_tree.png blocks/log_oak.png
 default_tree_top.png blocks/log_oak_top.png
 default_water_flowing_animated.png blocks/water_flow.png
 default_water.png *custom*
-default_water_source_animated.png blocks/water_still.png
+default_water_source_animated.png *custom*
 default_wood.png blocks/planks_oak.png
 doors_brown.png *custom*
 doors_glass_a.png

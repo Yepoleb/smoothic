@@ -155,7 +155,7 @@ cp original/blocks/log_oak.png minetest/default_tree.png
 cp original/blocks/log_oak_top.png minetest/default_tree_top.png
 cp original/blocks/water_flow.png minetest/default_water_flowing_animated.png
 cp custom/default_water.png minetest/default_water.png
-cp original/blocks/water_still.png minetest/default_water_source_animated.png
+cp custom/default_water_source_animated.png minetest/default_water_source_animated.png
 cp original/blocks/planks_oak.png minetest/default_wood.png
 cp custom/doors_brown.png minetest/doors_brown.png
 #Missing: doors_glass_a.png

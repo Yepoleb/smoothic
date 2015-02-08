@@ -48,7 +48,7 @@ cp original/blocks/furnace_front_on.png minetest/default_furnace_front_active.pn
 cp original/blocks/furnace_front_off.png minetest/default_furnace_front.png
 cp original/blocks/furnace_side.png minetest/default_furnace_side.png
 cp original/blocks/furnace_top.png minetest/default_furnace_top.png
-#Missing: default_glass_detail.png
+cp custom/default_glass_detail.png minetest/default_glass_detail.png
 cp original/blocks/glass.png minetest/default_glass.png
 cp original/blocks/gold_block.png minetest/default_gold_block.png
 cp original/items/gold_ingot.png minetest/default_gold_ingot.png
@@ -58,7 +58,7 @@ cp custom/default_grass_2.png minetest/default_grass_2.png
 cp custom/default_grass_3.png minetest/default_grass_3.png
 cp custom/default_grass_4.png minetest/default_grass_4.png
 cp custom/default_grass_5.png minetest/default_grass_5.png
-#Missing: default_grass_footsteps.png
+cp custom/default_grass_footsteps.png minetest/default_grass_footsteps.png
 cp custom/default_grass.png minetest/default_grass.png
 cp custom/default_grass_side.png minetest/default_grass_side.png
 cp original/blocks/gravel.png minetest/default_gravel.png
@@ -85,10 +85,6 @@ cp custom/default_mineral_gold.png minetest/default_mineral_gold.png
 cp custom/default_mineral_iron.png minetest/default_mineral_iron.png
 cp custom/default_mineral_mese.png minetest/default_mineral_mese.png
 cp original/blocks/cobblestone_mossy.png minetest/default_mossycobble.png
-#Missing: default_nc_back.png
-#Missing: default_nc_front.png
-#Missing: default_nc_rb.png
-#Missing: default_nc_side.png
 cp original/blocks/obsidian.png minetest/default_obsidian.png
 cp custom/default_obsidian_brick.png minetest/default_obsidian_brick.png
 cp custom/default_obsidian_glass.png minetest/default_obsidian_glass.png
@@ -236,14 +232,10 @@ cp original/blocks/flower_allium.png minetest/flowers_viola.png
 cp custom/gui_formbg.png minetest/gui_formbg.png
 cp custom/gui_furnace_arrow_bg.png minetest/gui_furnace_arrow_bg.png
 cp custom/gui_furnace_arrow_fg.png minetest/gui_furnace_arrow_fg.png
-#Missing: gui_hb_bg.png
 cp custom/gui_hotbar.png minetest/gui_hotbar.png
 cp custom/gui_hotbar_selected.png minetest/gui_hotbar_selected.png
 cp custom/heart.png minetest/heart.png
-#Missing: icon.png
 cp custom/minetest_menu_header.png minetest/minetest_menu_header.png
-#Missing: player_back.png
-#Missing: player.png
 cp custom/screenshot.png minetest/screenshot.png
 #Missing: screwdriver.png
 #Missing: tnt_boom.png
@@ -281,8 +273,4 @@ cp original/blocks/wool_colored_purple.png minetest/wool_violet.png
 cp original/blocks/wool_colored_white.png minetest/wool_white.png
 cp original/blocks/wool_colored_yellow.png minetest/wool_yellow.png
 cp original/blocks/iron_bars.png minetest/xpanes_bar.png
-#Missing: xpanes_grey.png
-#Missing: xpanes_pane_half.png
-#Missing: xpanes_space.png
-#Missing: xpanes_white.png
 cp custom/info.txt minetest/info.txt

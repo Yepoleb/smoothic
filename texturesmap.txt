@@ -48,7 +48,7 @@ default_furnace_front_active.png blocks/furnace_front_on.png
 default_furnace_front.png blocks/furnace_front_off.png
 default_furnace_side.png blocks/furnace_side.png
 default_furnace_top.png blocks/furnace_top.png
-default_glass_detail.png
+default_glass_detail.png *custom*
 default_glass.png blocks/glass.png
 default_gold_block.png blocks/gold_block.png
 default_gold_ingot.png items/gold_ingot.png
@@ -58,7 +58,7 @@ default_grass_2.png *custom*
 default_grass_3.png *custom*
 default_grass_4.png *custom*
 default_grass_5.png *custom*
-default_grass_footsteps.png
+default_grass_footsteps.png *custom*
 default_grass.png *custom*
 default_grass_side.png *custom*
 default_gravel.png blocks/gravel.png
@@ -85,10 +85,10 @@ default_mineral_gold.png *custom*
 default_mineral_iron.png *custom*
 default_mineral_mese.png *custom*
 default_mossycobble.png blocks/cobblestone_mossy.png
-default_nc_back.png
-default_nc_front.png
-default_nc_rb.png
-default_nc_side.png
+default_nc_back.png *skip*
+default_nc_front.png *skip*
+default_nc_rb.png *skip*
+default_nc_side.png *skip*
 default_obsidian.png blocks/obsidian.png
 default_obsidian_brick.png *custom*
 default_obsidian_glass.png *custom*
@@ -236,14 +236,14 @@ flowers_viola.png blocks/flower_allium.png
 gui_formbg.png *custom*
 gui_furnace_arrow_bg.png *custom*
 gui_furnace_arrow_fg.png *custom*
-gui_hb_bg.png
+gui_hb_bg.png *skip*
 gui_hotbar.png *custom*
 gui_hotbar_selected.png *custom*
 heart.png *custom*
-icon.png
+icon.png *skip*
 minetest_menu_header.png *custom*
-player_back.png
-player.png
+player_back.png *skip*
+player.png *skip*
 screenshot.png *custom*
 screwdriver.png
 tnt_boom.png
@@ -281,9 +281,9 @@ wool_violet.png blocks/wool_colored_purple.png
 wool_white.png blocks/wool_colored_white.png
 wool_yellow.png blocks/wool_colored_yellow.png
 xpanes_bar.png blocks/iron_bars.png
-xpanes_grey.png
-xpanes_pane_half.png
-xpanes_space.png
-xpanes_white.png
+xpanes_grey.png *skip*
+xpanes_pane_half.png *skip*
+xpanes_space.png *skip*
+xpanes_white.png *skip*
 
 info.txt *custom*

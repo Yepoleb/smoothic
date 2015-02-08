@@ -145,7 +145,7 @@ cp original/items/wood_sword.png minetest/default_tool_woodsword.png
 #Missing: default_torch_on_ceiling_animated.png
 #Missing: default_torch_on_ceiling.png
 #Missing: default_torch_on_floor_animated.png
-#Missing: default_torch_on_floor.png
+cp original/blocks/torch_on.png minetest/default_torch_on_floor.png
 cp custom/default_torch.png minetest/default_torch.png
 cp original/blocks/log_oak.png minetest/default_tree.png
 cp original/blocks/log_oak_top.png minetest/default_tree_top.png

@@ -1,3 +1,4 @@
+# minetest_game
 boat_inventory.png items/boat.png
 boat_wield.png *custom*
 bones_bottom.png
@@ -149,7 +150,7 @@ default_torch_animated.png
 default_torch_on_ceiling_animated.png
 default_torch_on_ceiling.png
 default_torch_on_floor_animated.png
-default_torch_on_floor.png
+default_torch_on_floor.png blocks/torch_on.png
 default_torch.png *custom*
 default_tree.png blocks/log_oak.png
 default_tree_top.png blocks/log_oak_top.png

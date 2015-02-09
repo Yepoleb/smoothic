@@ -91,7 +91,7 @@ default_nc_front.png *skip*
 default_nc_rb.png *skip*
 default_nc_side.png *skip*
 default_obsidian.png blocks/obsidian.png
-default_obsidian_brick.png *custom*
+default_obsidian_brick.png blocks/enchanting_table_bottom.png
 default_obsidian_glass.png *custom*
 default_obsidian_shard.png *custom*
 default_paper.png items/paper.png
@@ -159,15 +159,15 @@ default_water.png *custom*
 default_water_source_animated.png *custom*
 default_wood.png blocks/planks_oak.png
 doors_brown.png *custom*
-doors_glass_a.png
-doors_glass_b.png
-doors_glass.png
-doors_glass_side.png
+doors_glass_a.png blocks/glass.png
+doors_glass_b.png blocks/glass.png
+doors_glass.png *custom*
+doors_glass_side.png *custom*
 doors_grey.png *custom*
-doors_obsidian_glass_a.png
-doors_obsidian_glass_b.png
-doors_obsidian_glass.png
-doors_obsidian_glass_side.png
+doors_obsidian_glass_a.png *custom*
+doors_obsidian_glass_b.png *custom*
+doors_obsidian_glass.png *custom*
+doors_obsidian_glass_side.png *custom*
 doors_steel_a.png *custom*
 doors_steel_b.png *custom*
 doors_steel.png *custom*
@@ -247,12 +247,14 @@ player_back.png *skip*
 player.png *skip*
 screenshot.png *custom*
 screwdriver.png
-tnt_boom.png
+torches_fire1.png *custom*
+torches_fire2.png *custom*
+tnt_boom.png *custom*
 tnt_bottom.png blocks/tnt_bottom.png
-tnt_gunpowder_burning_animated.png
-tnt_gunpowder_burning.png 
+tnt_gunpowder_burning_animated.png *custom*
+tnt_gunpowder_burning.png *custom*
 tnt_gunpowder_inventory.png items/gunpowder.png
-tnt_gunpowder.png
+tnt_gunpowder.png *custom*
 tnt_side.png blocks/tnt_side.png
 tnt_smoke.png *custom*
 tnt_top_burning_animated.png blocks/tnt_top.png

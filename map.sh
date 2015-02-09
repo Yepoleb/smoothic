@@ -86,7 +86,7 @@ cp custom/default_mineral_iron.png minetest/default_mineral_iron.png
 cp custom/default_mineral_mese.png minetest/default_mineral_mese.png
 cp original/blocks/cobblestone_mossy.png minetest/default_mossycobble.png
 cp original/blocks/obsidian.png minetest/default_obsidian.png
-cp custom/default_obsidian_brick.png minetest/default_obsidian_brick.png
+cp original/blocks/enchanting_table_bottom.png minetest/default_obsidian_brick.png
 cp custom/default_obsidian_glass.png minetest/default_obsidian_glass.png
 cp custom/default_obsidian_shard.png minetest/default_obsidian_shard.png
 cp original/items/paper.png minetest/default_paper.png
@@ -154,15 +154,15 @@ cp custom/default_water.png minetest/default_water.png
 cp custom/default_water_source_animated.png minetest/default_water_source_animated.png
 cp original/blocks/planks_oak.png minetest/default_wood.png
 cp custom/doors_brown.png minetest/doors_brown.png
-#Missing: doors_glass_a.png
-#Missing: doors_glass_b.png
-#Missing: doors_glass.png
-#Missing: doors_glass_side.png
+cp original/blocks/glass.png minetest/doors_glass_a.png
+cp original/blocks/glass.png minetest/doors_glass_b.png
+cp custom/doors_glass.png minetest/doors_glass.png
+cp custom/doors_glass_side.png minetest/doors_glass_side.png
 cp custom/doors_grey.png minetest/doors_grey.png
-#Missing: doors_obsidian_glass_a.png
-#Missing: doors_obsidian_glass_b.png
-#Missing: doors_obsidian_glass.png
-#Missing: doors_obsidian_glass_side.png
+cp custom/doors_obsidian_glass_a.png minetest/doors_obsidian_glass_a.png
+cp custom/doors_obsidian_glass_b.png minetest/doors_obsidian_glass_b.png
+cp custom/doors_obsidian_glass.png minetest/doors_obsidian_glass.png
+cp custom/doors_obsidian_glass_side.png minetest/doors_obsidian_glass_side.png
 cp custom/doors_steel_a.png minetest/doors_steel_a.png
 cp custom/doors_steel_b.png minetest/doors_steel_b.png
 cp custom/doors_steel.png minetest/doors_steel.png
@@ -238,12 +238,14 @@ cp custom/heart.png minetest/heart.png
 cp custom/minetest_menu_header.png minetest/minetest_menu_header.png
 cp custom/screenshot.png minetest/screenshot.png
 #Missing: screwdriver.png
-#Missing: tnt_boom.png
+cp custom/torches_fire1.png minetest/torches_fire1.png
+cp custom/torches_fire2.png minetest/torches_fire2.png
+cp custom/tnt_boom.png minetest/tnt_boom.png
 cp original/blocks/tnt_bottom.png minetest/tnt_bottom.png
-#Missing: tnt_gunpowder_burning_animated.png
-#Missing: tnt_gunpowder_burning.png
+cp custom/tnt_gunpowder_burning_animated.png minetest/tnt_gunpowder_burning_animated.png
+cp custom/tnt_gunpowder_burning.png minetest/tnt_gunpowder_burning.png
 cp original/items/gunpowder.png minetest/tnt_gunpowder_inventory.png
-#Missing: tnt_gunpowder.png
+cp custom/tnt_gunpowder.png minetest/tnt_gunpowder.png
 cp original/blocks/tnt_side.png minetest/tnt_side.png
 cp custom/tnt_smoke.png minetest/tnt_smoke.png
 cp original/blocks/tnt_top.png minetest/tnt_top_burning_animated.png

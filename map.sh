@@ -1,10 +1,10 @@
 cp original/items/boat.png minetest/boat_inventory.png
 cp custom/boat_wield.png minetest/boat_wield.png
-#Missing: bones_bottom.png
-#Missing: bones_front.png
-#Missing: bones_rear.png
-#Missing: bones_side.png
-#Missing: bones_top.png
+cp custom/bones_bottom.png minetest/bones_bottom.png
+cp custom/bones_front.png minetest/bones_front.png
+cp custom/bones_rear.png minetest/bones_rear.png
+cp custom/bones_side.png minetest/bones_side.png
+cp custom/bones_top.png minetest/bones_top.png
 cp custom/bubble.png minetest/bubble.png
 cp original/items/bucket_lava.png minetest/bucket_lava.png
 cp original/items/bucket_empty.png minetest/bucket.png
@@ -197,9 +197,9 @@ cp custom/farming_cotton_7.png minetest/farming_cotton_7.png
 cp custom/farming_cotton_8.png minetest/farming_cotton_8.png
 cp original/items/string.png minetest/farming_cotton.png
 cp custom/farming_cotton_seed.png minetest/farming_cotton_seed.png
-#Missing: farming_desert_sand_soil.png
-#Missing: farming_desert_sand_soil_wet.png
-#Missing: farming_desert_sand_soil_wet_side.png
+cp custom/farming_desert_sand_soil.png minetest/farming_desert_sand_soil.png
+cp custom/farming_desert_sand_soil_wet.png minetest/farming_desert_sand_soil_wet.png
+cp original/blocks/red_sand.png minetest/farming_desert_sand_soil_wet_side.png
 cp custom/farming_flour.png minetest/farming_flour.png
 cp original/blocks/farmland_dry.png minetest/farming_soil.png
 cp original/blocks/farmland_wet.png minetest/farming_soil_wet.png

@@ -247,8 +247,6 @@ player_back.png *skip*
 player.png *skip*
 screenshot.png *custom*
 screwdriver.png
-torches_fire1.png *custom*
-torches_fire2.png *custom*
 tnt_boom.png *custom*
 tnt_bottom.png blocks/tnt_bottom.png
 tnt_gunpowder_burning_animated.png *custom*
@@ -288,5 +286,18 @@ xpanes_grey.png *skip*
 xpanes_pane_half.png *skip*
 xpanes_space.png *skip*
 xpanes_white.png *skip*
+
+torches_fire1.png *custom*
+torches_fire2.png *custom*
+
+vines_side.png *custom*
+vines_side_rotten.png *custom*
+shears.png items/shears.png
+
+moretrees_birch_leaves.png *custom*
+moretrees_birch_sapling blocks/sapling_birch.png
+moretrees_birch_trunk.png blocks/log_birch.png
+moretrees_birch_trunk_top.png blocks/log_birch_top.png
+moretrees_birch_wood.png blocks/planks_birch.png
 
 info.txt *custom*

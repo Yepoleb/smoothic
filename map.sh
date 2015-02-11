@@ -238,8 +238,6 @@ cp custom/heart.png minetest/heart.png
 cp custom/minetest_menu_header.png minetest/minetest_menu_header.png
 cp custom/screenshot.png minetest/screenshot.png
 #Missing: screwdriver.png
-cp custom/torches_fire1.png minetest/torches_fire1.png
-cp custom/torches_fire2.png minetest/torches_fire2.png
 cp custom/tnt_boom.png minetest/tnt_boom.png
 cp original/blocks/tnt_bottom.png minetest/tnt_bottom.png
 cp custom/tnt_gunpowder_burning_animated.png minetest/tnt_gunpowder_burning_animated.png
@@ -275,4 +273,14 @@ cp original/blocks/wool_colored_purple.png minetest/wool_violet.png
 cp original/blocks/wool_colored_white.png minetest/wool_white.png
 cp original/blocks/wool_colored_yellow.png minetest/wool_yellow.png
 cp original/blocks/iron_bars.png minetest/xpanes_bar.png
+cp custom/torches_fire1.png minetest/torches_fire1.png
+cp custom/torches_fire2.png minetest/torches_fire2.png
+cp custom/vines_side.png minetest/vines_side.png
+cp custom/vines_side_rotten.png minetest/vines_side_rotten.png
+cp original/items/shears.png minetest/shears.png
+cp custom/moretrees_birch_leaves.png minetest/moretrees_birch_leaves.png
+cp original/blocks/sapling_birch.png minetest/moretrees_birch_sapling
+cp original/blocks/log_birch.png minetest/moretrees_birch_trunk.png
+cp original/blocks/log_birch_top.png minetest/moretrees_birch_trunk_top.png
+cp original/blocks/planks_birch.png minetest/moretrees_birch_wood.png
 cp custom/info.txt minetest/info.txt

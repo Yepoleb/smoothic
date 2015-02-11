@@ -279,7 +279,7 @@ cp custom/vines_side.png minetest/vines_side.png
 cp custom/vines_side_rotten.png minetest/vines_side_rotten.png
 cp original/items/shears.png minetest/shears.png
 cp custom/moretrees_birch_leaves.png minetest/moretrees_birch_leaves.png
-cp original/blocks/sapling_birch.png minetest/moretrees_birch_sapling
+cp original/blocks/sapling_birch.png minetest/moretrees_birch_sapling.png
 cp original/blocks/log_birch.png minetest/moretrees_birch_trunk.png
 cp original/blocks/log_birch_top.png minetest/moretrees_birch_trunk_top.png
 cp original/blocks/planks_birch.png minetest/moretrees_birch_wood.png

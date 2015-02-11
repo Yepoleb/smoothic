@@ -295,7 +295,7 @@ vines_side_rotten.png *custom*
 shears.png items/shears.png
 
 moretrees_birch_leaves.png *custom*
-moretrees_birch_sapling blocks/sapling_birch.png
+moretrees_birch_sapling.png blocks/sapling_birch.png
 moretrees_birch_trunk.png blocks/log_birch.png
 moretrees_birch_trunk_top.png blocks/log_birch_top.png
 moretrees_birch_wood.png blocks/planks_birch.png
